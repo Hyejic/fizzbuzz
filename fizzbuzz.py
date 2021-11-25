@@ -6,6 +6,7 @@ def do_fizzbuzz():
     print 'buzz' if i is times of 5
     print 'fizzbuzz' if i is times of 15
     else, print i (string)
+    modify
     """
     for i in range(1,15+1):
         if i%3==0:
